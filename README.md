@@ -165,4 +165,4 @@ Measurement results are saved in CSV format:
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+Commercial license 70$
