@@ -166,3 +166,4 @@ Measurement results are saved in CSV format:
 ## License
 
 Commercial license 70$
+https://arkoplatinnn.gumroad.com/l/oyyseg
